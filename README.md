@@ -5,11 +5,4 @@
   , [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform.html).
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=MolchanovDmitry&count_private=true&show_icons=true"/>
-<img id="topright" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MolchanovDmitry" />
-
-<style>
-  #topright {
-      position: absolute;
-      top: 4%;
-  }
-</style>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MolchanovDmitry" />
