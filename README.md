@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello there 👋
 
-<!--
-**MolchanovDmitry/MolchanovDmitry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [app for my father](https://github.com/MolchanovDmitry/FishingForecast).
+- 🌱 I’m currently learning [Compose](https://developer.android.com/jetpack/compose)
+  , [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform.html).
 
-Here are some ideas to get you started:
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=MolchanovDmitry&count_private=true&show_icons=true"/>
+<img id="topright" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MolchanovDmitry" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<style>
+  #topright {
+      position: absolute;
+      top: 4%;
+  }
+</style>
